@@ -23,7 +23,7 @@ To integrate the Tredio player, use the following script:
 ## 🎧 Demo Example
 To see the Tredio audio player in action, check out our live demo:
 
-👉 [Tredio Player Demo](https://playbill-demo.web.app/)
+👉 [Tredio Player Demo](https://footballco-demo.web.app)
 
 You can use this demo to explore how the player looks and behaves when integrated into a web page. It’s a great reference to verify the script integration and playback functionality.
 
