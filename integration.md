@@ -20,12 +20,12 @@ To integrate the Tredio player, use the following script:
   })();
 </script>
 ```
-## 🎧 Demo Example
+## 🎧 Live Example
 To see the Tredio audio player in action, check out our live demo:
 
-👉 [Tredio Player Demo](https://footballco-demo.web.app)
+👉 [Tredio Player Live](https://www.theunnoticedentrepreneur.com)
 
-You can use this demo to explore how the player looks and behaves when integrated into a web page. It’s a great reference to verify the script integration and playback functionality.
+You can use this live website to explore how the player looks and behaves when integrated into a web page. It’s a great reference to verify the script integration and playback functionality.
 
 ## Instructions
 
