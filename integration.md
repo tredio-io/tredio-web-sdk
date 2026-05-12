@@ -23,7 +23,7 @@ To integrate the Tredio player, use the following script:
 ## 🎧 Live Example
 To see the Tredio audio player in action, check out our live demo:
 
-👉 [Tredio Player Live]([https://autosport-mobile.tredio.io])
+👉 [Tredio Player Live](https://autosport-mobile.tredio.io)
 
 You can use this live website to explore how the player looks and behaves when integrated into a web page. It’s a great reference to verify the script integration and playback functionality.
 
